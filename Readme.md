@@ -1,5 +1,9 @@
 # BQ Café e Tecnologia
 
+O bq cafe e tecnologia é um evento para fomentar a tecnologia e acelerar os negócios  
+
+## O projeto 
+
 - [x] 1. O Evento que irá acontecer na data
 - [x] 2. Inscrições
 - [x] 4. Palestrantes: Lucas (Aguardando Confirmação) + Marcus (Aguardando Confirmação)
@@ -13,3 +17,5 @@
   - [x] palestrantes
   - [x] apoiadores
   - [x] parceiros
+
+**@douglasabnovato**
