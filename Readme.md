@@ -10,13 +10,25 @@ O bq cafe e tecnologia é um evento para fomentar a tecnologia e acelerar os neg
 - [x] 3. Localização
 - [x] 5. Sobre o evento
 - [x] 6. Realização:
-    - Organização: BQ Spazio + Douglas
+    - Organização: BQ Spazio + Douglas Novato
     - Apoiadores: Vol  
-    - Parceiros: Marlon + (Coffee Break) 
+    - Parceiros: (MovieMaker) Marlon + (Coffee Break) 
 - [x] Convites
-  - [x] palestrantes
+  - [x] palestrantes 
   - [x] apoiadores
   - [x] parceiros
 - [x] Design e Identidade Visual
+
+## O evento 
+ 
+### Primeira edição
+
+- [ ] Data
+- [ ] Convites
+  - [ ] palestrantes 
+  - [ ] apoiadores
+  - [ ] parceiros
+- [ ] Divulgação
+
 
 **@douglasabnovato**
