@@ -17,5 +17,6 @@ O bq cafe e tecnologia é um evento para fomentar a tecnologia e acelerar os neg
   - [x] palestrantes
   - [x] apoiadores
   - [x] parceiros
+- [x] Design e Identidade Visual
 
 **@douglasabnovato**
