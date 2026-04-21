@@ -1,4 +1,4 @@
-# BQ Café e Tecnologia
+# BQ Agenda TECH
 
 O bq cafe e tecnologia é um evento para fomentar a tecnologia e acelerar os negócios  
 
